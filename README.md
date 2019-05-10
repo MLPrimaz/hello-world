@@ -70,9 +70,9 @@ A título de curiosidade vou mostrar como seria feito sem o uso de funções:
 ```Python
    
 #Programa principal
-print(saudacao("Misael, seja bem vindo ao curso de Python.")
-print(saudacao("Valentina, seja bem vindo ao curso de Python.")
-print(saudacao("Pedro Henrique, seja bem vindo ao curso de Python.")
+print("Misael, seja bem vindo ao curso de Python.")
+print("Valentina, seja bem vindo ao curso de Python.")
+print("Pedro Henrique, seja bem vindo ao curso de Python.")
 ```
 Temos o mesmo resultado, mas note como tivemos que repetir várias vezes algo que já haviamos digitado. Essa percepção já é um indício de que que o código está pedindo uma função, estamos repetindo coisas que podem ser automatizadas.
 
